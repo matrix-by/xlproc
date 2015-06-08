@@ -1,1 +1,2 @@
-# xlproc
+# xlproc: da Excel processor
+
